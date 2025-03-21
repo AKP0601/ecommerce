@@ -14,6 +14,9 @@ git add index.html
 git commit -m "Added index.html inside thekuaWale"
 git push origin main
 
+<link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
+
 
 
 
