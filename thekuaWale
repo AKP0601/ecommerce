@@ -7,7 +7,17 @@
     <meta name="keywords" content="eCommerce, shopping, discounts, online store">
     <meta name="author" content="Your Website Name">
     <title>eCommerce Website</title>
-    <style>
+    
+cd thekuaWale
+echo "<h1>Welcome to Thekua Wale</h1>" > index.html
+git add index.html
+git commit -m "Added index.html inside thekuaWale"
+git push origin main
+
+
+
+
+<style>
         body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
         header { background: #333; color: #fff; padding: 15px; text-align: center; }
         nav ul { list-style: none; padding: 0; }
