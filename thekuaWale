@@ -8,12 +8,6 @@
     <meta name="author" content="Your Website Name">
     <title>eCommerce Website</title>
     
-cd thekuaWale
-echo "<h1>Welcome to Thekua Wale</h1>" > index.html
-git add index.html
-git commit -m "Added index.html inside thekuaWale"
-git push origin main
-
 
 
 
@@ -109,3 +103,9 @@ git push origin main
 
 </body>
 </html>
+cd thekuaWale
+echo "<h1>Welcome to Thekua Wale</h1>" > index.html
+git add index.html
+git commit -m "Added index.html inside thekuaWale"
+git push origin main
+
