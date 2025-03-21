@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+I<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -104,7 +104,7 @@
 </body>
 </html>
 cd thekuaWale
-echo "<h1>Welcome to Thekua Wale</h1>" > index.html
+echo "<h1>Welcome to thekuaWale</h1>" > index.html
 git add index.html
 git commit -m "Added index.html inside thekuaWale"
 git push origin main
